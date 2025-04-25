@@ -4,8 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href=" {{ site.baseurl }}/assets/css/styles.css">
-    <!-- <link rel=*icol* href="{{ site.baseurl }}/assets/css/styles.css"> -->
-    <script scr="{{ site.baseurl }}/assets/js/styles.js"></script>
+    <script scr="{{ site.baseurl }}/assets/js/script.js"></script>
+    
+    {% feed_meta %}
+    {% seo %}
+
+
 </head>
 <body>
         {% include navigation.html %}
