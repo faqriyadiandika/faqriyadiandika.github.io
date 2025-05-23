@@ -1,5 +1,5 @@
-$primary-color: #3b7b3a;
-$secondary-color: #fbbc05;
+$primary-color: #3a5e7b;
+$secondary-color: #0509fb;
 $font-stack: helvetica, sans-serif;
 
 body,
@@ -51,9 +51,9 @@ nav{
   width: 80%; margin: auto; overflow: hidden;
 }
 .profile-picture {
-  width: 150px; height: 150px; border-radius: 50; margin: 24px auto;
+  width: 150px; height: 150px; border-radius: 50%; margin: 24px auto;
   background-color: $secondary-color;
 }
-.active{
+.active{  
   background-color: $secondary-color;
 }
