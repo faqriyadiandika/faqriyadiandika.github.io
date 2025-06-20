@@ -1,0 +1,20 @@
+---
+layout: post
+title: "pertemuan 6"
+---
+menambahkan ke folder _students di repository lain
+
+# Langkah-langkah
+
+Berikut langkah-langkah untuk menambahkan file ke dalam folder _students di repository GitHub:
+
+- Buka repository GitHub tujuan melalui browser.
+- Klik folder _students di dalam repository tersebut.
+- Di bagian kanan atas (dekat “history commits”), klik ikon titik tiga ⋯.
+- Pilih opsi “Create new file” untuk membuat file baru.
+- Masukkan nama file sesuai format yang diminta.
+- Pada bagian “Enter file contents here”, isi dengan konten file sesuai contoh atau instruksi yang diberikan.
+- Di bawahnya, pada kolom “Commit changes”, isikan nama commit sesuai dengan nama kamu.
+- Klik tombol “Propose changes” untuk mengajukan perubahan.
+- Setelah itu, lanjutkan dengan klik “Create pull request”.
+- Tunggu sampai owner repository menerima (merge) pull request kamu.
