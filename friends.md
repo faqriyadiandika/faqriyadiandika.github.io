@@ -5,7 +5,7 @@ title: friends
 
 # Friends page
 Berikut teman-temana saya di kelas:
-1. [Ahmad Aulia Fahlevi](https://alvi0syahril.github.io)
+1. [Alvi Syahril](https://alvi0syahril.github.io)
 2. [Faizul Abrar](https://faizul-abrar.github.io)
 3. [hafidz maulana](https://hafidzmaulana28.github.io)
 4. [hayzar muhaiyar](https://hayzarmuhaiyar0101.github.io)
@@ -31,4 +31,5 @@ Berikut teman-temana saya di kelas:
 25. [Maila Aziza](https://mailaazizaa.github.io)
 26. [Maisha Zahrani](https://maishazahrani.github.io)
 27. [Malia Ulfa](https://maliaulfa2.github.io)
-28. [iqbal sayuti](https://iqbalsayuti0.github.io)
+28. [M. iqbal sayuti](https://iqbalsayuti0.github.io)
+29. [Ahmad Aulia Fahlevi](https://lepii1.github.io/)
